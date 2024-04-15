@@ -1,9 +1,8 @@
-// SPDX-License-Identifier: MIT
-// (c) 2024 TwoSquirrels
-
 // ==UserScript==
 // @name         YouTube Shorts Limiter
 // @description  YouTube Shorts で一定回数以上スクロールできなくする User Script
+// @author       TwoSquirrels
+// @license      MIT
 // @namespace    https://github.com/TwoSquirrels
 // @version      0.1.0
 // @match        https://*.youtube.com/shorts/*
