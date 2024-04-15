@@ -4,8 +4,8 @@
 // @author       TwoSquirrels
 // @license      MIT
 // @namespace    https://github.com/TwoSquirrels
-// @version      0.1.0
-// @match        https://*.youtube.com/shorts/*
+// @version      0.1.1
+// @match        https://*.youtube.com/*
 // ==/UserScript==
 
 // YouTube Shorts で一度に観れる動画の数の上限
