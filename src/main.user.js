@@ -9,7 +9,7 @@
 // @match        https://*.youtube.com/shorts/*
 // ==/UserScript==
 
-// YouTube Shorts でスクロールできる回数の上限
+// YouTube Shorts で一度に観れる動画の数の上限
 const YT_SHORTS_LIMIT = 1;
 
 setInterval(() => {
